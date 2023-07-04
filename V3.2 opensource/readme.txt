@@ -1,5 +1,5 @@
 """
-BOT PARA SALTEARSE LA FILA
+BOT PARA SALTEARSE LA FILA VIRTUAL
 
 Instagram:  @Agus_teira 
 Twitter:    @g_teira3
